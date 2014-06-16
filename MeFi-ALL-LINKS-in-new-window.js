@@ -3,6 +3,7 @@
 // @namespace   http://www.onfocus.com/
 // @include     http://*.metafilter.com/*
 // @version     1
+// @description This will force all the links at MetaFilter.com sites to open in a new tab, even internal links.
 // ==/UserScript==
 
 (function(){
